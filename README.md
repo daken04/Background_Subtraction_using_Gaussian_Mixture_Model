@@ -1,7 +1,7 @@
 # Result
 
 ## Input Image
-  [![Input Image]()](https://github.com/daken04/Background_Subtraction_using_Gaussian_Mixture_Model/blob/main/videos/traffic.gif)
+  [![Input Image]()]([https://github.com/daken04/Background_Subtraction_using_Gaussian_Mixture_Model/blob/main/videos/traffic.gif](https://github.com/daken04/Background_Subtraction_using_Gaussian_Mixture_Model/blob/main/videos/traffic.gif))
 
 ## Output using Averaging
 
